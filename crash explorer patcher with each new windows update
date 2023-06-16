@@ -1,0 +1,6 @@
+Hi,
+Preview of Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5026446) and Updates for Windows (KB2693643)(KB5026446) and earlier, each time after installing these updates, at the time opening the windows desktop there is a total blockage and a black or white screen, including in safe mode.
+It is therefore necessary, each time, to uninstall the update then to uninstall explorer patcher to finally reinstall the update.
+Finally as soon as there is a new version of explorer patcher, it is installed and windows works perfectly.
+Seems like every windows update blocks explorer patcher.
+Franc
